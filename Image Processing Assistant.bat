@@ -1,0 +1,1 @@
+D:\PROJECTS\mini_project_Image_manipulation\Project_image\Project_image\myenv\Scripts\activate && python main.py

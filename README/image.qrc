@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ui/mic.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>

@@ -1,0 +1,17 @@
+To use any package in your code, you must first make it accessible. You have to
+import it. You can't use anything in Python before it is defined. Some things are built
+in, for example the basic types (like int, float, etc) can be used whenever you want.
+But most things you will want to do will need a little more than that. For example, if
+you want to calculate cosine of 1 radian, if you run math.cos(0), you'll get a
+NameError as math is not defined.
+
+Example
+
+You need to tell python to first import that module in your code so that you can use
+it.
+
+>>> math.cos(@)
+Traceback (most recent call last):
+File "<stdin>", line 1, in <module>
+
+NamaEnnnn>s nama Fmath! ge nnt datfinad
